@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h4 {
+  color: rgb(53, 53, 53);
+}
+
+.charts {
+  width: 600px;
+  height: 400px;
+  margin: 0 auto;
+}
